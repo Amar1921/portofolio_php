@@ -30,8 +30,8 @@
                     anche con un po' di PHP e di JavScript. C'è anche una parte di bootstrap come base per il CSS. .</p>
                 <hr style="border: 1px solid white">
                 <ul class=>
-                    <li>Link di questo progetto fatto con :<a href=""> React</a></li>
-                    <li>Link di questo progetto fatto con :<a href=""> HTML/CSS</a></li>
+                    <li>Link di questo progetto fatto con :<a href="https://codeload.github.com/Amar1921/upgraded-octo-train/zip/master"> React</a></li>
+                    <li>Link di questo progetto fatto con :<a href="https://codeload.github.com/Amar1921/amar-portofolio-2/zip/master"> HTML/CSS</a></li>
                 </ul>
             </div><!-- /col-lg-4 -->
         </div>
